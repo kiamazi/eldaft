@@ -592,7 +592,7 @@ h6 {
     to be able to click on other steps.
 
 */
-#overview, .overview, #fover { display: none }
+#circle-overview, .overview, #fover { display: none }
 
 /*
     We also make other steps visible and give them a pointer cursor using the
