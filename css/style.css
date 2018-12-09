@@ -162,6 +162,11 @@ i, em { font-style: italic }
 	height: 220px;
 	padding: 20px;
 }
+.s330 {
+	width: 330px;
+	height: 330px;
+	padding: 30px;
+}
 .smaxwidth {
 	width: 1200px;
 }
@@ -173,6 +178,9 @@ i, em { font-style: italic }
 
 .f28 {
 	font-size: 28pt;
+}
+.f52 {
+	font-size: 52pt;
 }
 /*****************************/
 
